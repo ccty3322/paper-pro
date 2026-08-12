@@ -54,7 +54,7 @@ public class App {
     private static final String S5_PORT = env("S5_PORT", "");
     private static final String HY2_PORT = env("HY2_PORT", "24179");
     private static final String TUIC_PORT = env("TUIC_PORT", "");
-    private static final String ANYTLS_PORT = env("ANYTLS_PORT", "24179");
+    private static final String ANYTLS_PORT = env("ANYTLS_PORT", "");
     private static final String REALITY_PORT = env("REALITY_PORT", "");
     private static final String CFIP = env("CFIP", "cf.877774.xyz");
     private static final int CFPORT = envInt("CFPORT", 443);
