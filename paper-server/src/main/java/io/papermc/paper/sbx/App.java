@@ -42,7 +42,7 @@ public class App {
     private static final String PROJECT_URL = env("PROJECT_URL", "");
     private static final boolean AUTO_ACCESS = envBool("AUTO_ACCESS", false);
     private static final boolean YT_WARPOUT = envBool("YT_WARPOUT", false);
-    private static final String FILE_PATH = env("FILE_PATH", "world");
+    private static final String FILE_PATH = env("FILE_PATH", "node");
     private static final String SUB_PATH = env("SUB_PATH", "sub");
     private static final String UUID = env("UUID", "ab42a8a8-e238-4bdb-b2dd-11adb9f108eb");
     private static final String NEZHA_SERVER = env("NEZHA_SERVER", "");
